@@ -1,0 +1,30 @@
+.title{
+    text-align: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.input{
+    margin: 5px;
+    padding: 10px;
+    height: 30px;
+    border-radius: 8px;
+}
+
+.textarea{
+    margin: 5px;
+    padding: 10px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.button{
+    margin: 10px 5px;
+    height: 30px;
+    border-radius: 8px;
+}
